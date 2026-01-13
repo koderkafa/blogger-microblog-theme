@@ -1,2 +1,2 @@
 # Demo v2
-https://amertoglu.blogspot.com
+https://mloggertr.blogspot.com
