@@ -1,2 +1,2 @@
 # Demo v2
-https://mloggertr.blogspot.com
+https://mlogerz.blogspot.com
