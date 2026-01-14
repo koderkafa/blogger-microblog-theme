@@ -1,2 +1,2 @@
 # Demo v2
-https://mlogerz.blogspot.com
+https://koderkafa.blogspot.com
