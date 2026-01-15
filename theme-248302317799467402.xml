@@ -1308,9 +1308,9 @@ function goToPost(el) { window.location.href = el.getAttribute('data-url'); }
     <nav>
       <a href='/'><i class='fa fa-home'/></a>
       <a href='mailto:abdullah.mertoglu99@gmail.com' target='_blank'><i class='fa fa-paper-plane-o'/></a>
+      <a href='https://blogger.com/followers/follow/248302317799467402' target='_blank'><i class='fa fa-plus'/></a>
       <a href='https://blogger.com' target='_blank'><i class='fa-regular fa-edit'/></a>
       <a href='https://www.blogger.com/profile/01591305882543837157' target='_blank'><i class='fa fa-user-o'/></a>
-      <a href='https://blogger.com/followers/follow/248302317799467402' target='_blank'><i class='fa fa-plus'/></a>
     </nav>
   </footer>
   
