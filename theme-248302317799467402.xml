@@ -1380,7 +1380,7 @@ function goToPost(el) { window.location.href = el.getAttribute('data-url'); }
       <a href='https://blogger.com/' target='_blank'><i class='fa-regular fa-edit'/></a>
       <a href='https://www.blogger.com/followers/follow/248302317799467402' target='_blank'><i class='fa fa-plus'/></a>
       <a href='#' id='darkToggle'><i class='fa-regular fa-moon'/></a>
-      <a href='https://www.blogger.com/profile/01591305882543837157' target='_blank'><i class='fa fa-user-o'/></a>
+      <a href='https://github.com/kdrkf' target='_blank'><i class='fa fa-user-o'/></a>
     </nav>
   </footer>
   
