@@ -1,2 +1,2 @@
 # Demo
-https://koderkafa.blogspot.com
+https://kdrkf.blogspot.com
