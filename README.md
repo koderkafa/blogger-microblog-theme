@@ -1,2 +1,2 @@
 # Demo
-https://kdrkf.blogspot.com
+https://kdrkf2.blogspot.com
