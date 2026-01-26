@@ -1,2 +1,2 @@
 # Demo
-https://kdrkf.blogspot.com
+https://microblog-theme.blogspot.com
